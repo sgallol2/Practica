@@ -1,0 +1,4 @@
+Articulo {nombre = "5", categoria = "2"}
+Articulo {nombre = "Shampoo", categoria = "Aseo"}
+Articulo {nombre = "Arroz", categoria = "Comida"}
+Articulo {nombre = "Panela", categoria = "Comida"}
